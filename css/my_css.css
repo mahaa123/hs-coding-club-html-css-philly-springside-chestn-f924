@@ -1,1 +1,31 @@
 /*Write your custom CSS here!!!*/
+.row {
+  background-color: pink;
+}
+.col-lg-4 {
+background-color: #BA55D3;
+ }
+#page-top {
+  background-color: #DDA0DD;
+}
+.navbar-header page-scroll {
+  background-color: #FFC0CB;
+}
+.container {
+background-color: #FFC0CB
+}
+.collapse navbar-collapse {
+background-color:#FFC0CB
+}
+.portfolio {
+  background-color: #FFC0CB
+}
+#carousel-example-generic {
+  background-color: #FFC0CB
+}
+.carousel-inner {
+  background-color: #FFC0CB
+}
+.item {
+  background-color:#FFC0CB; 
+}
